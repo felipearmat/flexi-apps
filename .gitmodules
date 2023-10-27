@@ -1,0 +1,9 @@
+[submodule "flexi-frontend-react"]
+	path = flexi-frontend-react
+	url = https://github.com/felipearmat/flexi-frontend-react
+[submodule "flexi-backend-clojure"]
+	path = flexi-backend-clojure
+	url = https://github.com/felipearmat/flexi-backend-clojure
+[submodule "flexi-stack-clojure-react"]
+	path = flexi-stack-clojure-react
+	url = https://github.com/felipearmat/flexi-stack-clojure-react
